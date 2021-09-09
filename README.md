@@ -16,10 +16,10 @@ Login Functions
 Create frequency Functions for Tasks
 
 * Catalog Design 
-https://docs.google.com/document/d/1Obm8W5UZs-W5K9Q1AzRukn5BclPgcIuyKK_Q7RsJg_M/edit
+https://docs.google.com/document/d/1Obm8W5UZs-W5K9Q1AzRukn5BclPgcIuyKK_Q7RsJg_M/edit?usp=sharing
 
 * Table definition 
-https://docs.google.com/spreadsheets/d/1I-KhgVTJPdjBSTv7uO-yRVlPZBTBy41B_8rnAeCu-uM/edit#gid=0
+https://docs.google.com/spreadsheets/d/1ZTLNtjcpO9_GQ4Q7PuBS2xyLvYBdCRMpV4SOOum4pmk/edit?usp=sharing
 * Screen transition diagram
 * Screen wire frame
 * ERD Flowchart
