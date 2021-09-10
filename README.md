@@ -21,9 +21,13 @@ https://docs.google.com/document/d/1Obm8W5UZs-W5K9Q1AzRukn5BclPgcIuyKK_Q7RsJg_M/
 * Table definition 
 https://docs.google.com/spreadsheets/d/1ZTLNtjcpO9_GQ4Q7PuBS2xyLvYBdCRMpV4SOOum4pmk/edit?usp=sharing
 * Screen transition diagram
+https://docs.google.com/document/d/1MW48mhXKlJHkBfupEz9NOQ7NHp8-2jQdu9tpktjsY50/edit?usp=sharing
+
 * Screen wire frame
 * https://wireframe.cc/wqI2Mn
 * ERD Flowchart
+* https://docs.google.com/document/d/1cTXQc_u2Z0j2cL4lSROM71Hg3xeGy5a85Td7TNo2teU/edit?usp=sharing
+* 
 * Gems: Devise, Carrierwave,
 
 README Resotrack provides a way to take control of your resolutions
