@@ -5,7 +5,7 @@ This simple web application is developed with the purpose of helping people keep
 
 # Development language
 
-* Ruby version 2.6.5 Rails 5.2.6
+>> Ruby version 2.6.5 Rails 5.2.6
  
 Functions
   1. Create Users(user)
@@ -36,16 +36,16 @@ https://wireframe.cc/wqI2Mn https://wireframe.cc/bk7chj https://wireframe.cc/mMV
 
 # ERD Flowchart
  https://docs.google.com/document/d/1cTXQc_u2Z0j2cL4lSROM71Hg3xeGy5a85Td7TNo2teU/edit?usp=sharing
-* 
+ 
 # Gems: Devise, Carrierwave,
 
 # Excecution procedure
 ```
-$ git clone git@github.com:Cwaihenya/Finalapp-webeng.git
-$ bundle install
-$ rails db:create
-$ rails db:migrate
-$ rails s
+>>$ git clone git@github.com:Cwaihenya/Finalapp-webeng.git
+>>$ bundle install
+>>$ rails db:create
+>>$ rails db:migrate
+>>$ rails s
 
 ```
 
