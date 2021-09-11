@@ -41,11 +41,11 @@ https://wireframe.cc/wqI2Mn https://wireframe.cc/bk7chj https://wireframe.cc/mMV
 
 # Excecution procedure
 ```
->>$ git clone git@github.com:Cwaihenya/Finalapp-webeng.git
->>$ bundle install
->>$ rails db:create
->>$ rails db:migrate
->>$ rails s
+>> $ git clone git@github.com:Cwaihenya/Finalapp-webeng.git
+>> $ bundle install
+>> $ rails db:create
+>> $ rails db:migrate
+>> $ rails s
 
 ```
 
