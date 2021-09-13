@@ -20,7 +20,7 @@ Functions
  - Message function
 
 # Technology outside the curriculum
- - Rails Admin
+ - Animate.css
 
 # Catalog Design 
 https://docs.google.com/document/d/1Obm8W5UZs-W5K9Q1AzRukn5BclPgcIuyKK_Q7RsJg_M/edit?usp=sharing
