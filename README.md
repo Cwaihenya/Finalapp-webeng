@@ -35,7 +35,7 @@ https://docs.google.com/document/d/1MW48mhXKlJHkBfupEz9NOQ7NHp8-2jQdu9tpktjsY50/
 https://wireframe.cc/wqI2Mn https://wireframe.cc/bk7chj https://wireframe.cc/mMV4Ib https://wireframe.cc/vJJN6c https://wireframe.cc/8b6PjD
 
 # ERD Flowchart
- https://docs.google.com/document/d/1cTXQc_u2Z0j2cL4lSROM71Hg3xeGy5a85Td7TNo2teU/edit?usp=sharing
+https://docs.google.com/document/d/1cTXQc_u2Z0j2cL4lSROM71Hg3xeGy5a85Td7TNo2teU/edit?usp=sharing
  
 # Gems: Devise, Carrierwave,
 
