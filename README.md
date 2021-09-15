@@ -20,7 +20,7 @@ Functions
  - Message function
 
 # Technology outside the curriculum
- - Animate.css
+ - Gem Animate.css
 
 # Catalog Design 
 https://docs.google.com/document/d/1Obm8W5UZs-W5K9Q1AzRukn5BclPgcIuyKK_Q7RsJg_M/edit?usp=sharing
@@ -37,7 +37,7 @@ https://wireframe.cc/wqI2Mn https://wireframe.cc/bk7chj https://wireframe.cc/mMV
 # ERD Flowchart
 https://docs.google.com/document/d/1cTXQc_u2Z0j2cL4lSROM71Hg3xeGy5a85Td7TNo2teU/edit?usp=sharing
  
-# Gems: Devise, Carrierwave,
+# Gems: Devise, Carrierwave,Animate.css
 
 # Excecution procedure
 ```
